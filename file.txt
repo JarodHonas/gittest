@@ -1,5 +1,7 @@
 This is a cool file! It has words in it!
 
+A newer line
+
 And new Lines!
 
 What a cool idea!
